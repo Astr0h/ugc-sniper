@@ -1,0 +1,46 @@
+{
+    "webhook": {
+        "enabled": false,
+        "url": "https://eee"
+    },
+    "items": {
+        "item_on_release_snipe": [
+            {
+                "id": "13621949268",
+                "max_price": null,
+                "max_buys": null
+            }
+        ],
+        "cheap_price_snipe": [
+        ]
+    },
+    "accounts": [
+        "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|"
+    ],
+    "rooms": {
+        "enabled": true,
+        "item_setup": {
+            "max_price": null,
+            "max_buys": null
+        }
+    },
+    "proxy": {
+        "enabled": false,
+        "timeout_ms": 10000,
+        "proxy_list": "proxies.txt",
+        "authentication": {
+            "enabled": true,
+            "username": "",
+            "password": ""
+        }
+    },
+    "theme": {
+        "name": "main_theme",
+        "wait_time": 1
+    },
+    "discord": {
+        "enabled": false,
+        "prefix": "$",
+        "token": ""
+    }
+}
